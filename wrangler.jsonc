@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "wf-market-proxy",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "wf-market-proxy",
+			"database_id": "89f70ea9-3efd-483c-91b8-2efe2a0ba2ab"
+		}
+	]
+}
